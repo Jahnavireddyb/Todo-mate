@@ -1,22 +1,29 @@
 {
-  "name": "todo",
+  "name": "todo-mate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Todo-mate – a minimal productivity app to organize tasks and notes.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bscottnz/todo.git"
+    "url": "git+https://github.com/Jahnavireddyb/Todo-mate.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "todo",
+    "productivity",
+    "tasks",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Jahnavi Reddy Bheemavarapu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bscottnz/todo/issues"
+    "url": "https://github.com/Jahnavireddyb/Todo-mate/issues"
   },
-  "homepage": "https://github.com/bscottnz/todo#readme",
+  "homepage": "https://github.com/Jahnavireddyb/Todo-mate#readme",
   "devDependencies": {
     "webpack": "^5.12.2",
     "webpack-cli": "^4.3.1"
