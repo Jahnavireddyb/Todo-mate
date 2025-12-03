@@ -1,20 +1,31 @@
-# // TO-DO: Productivity App
+# 📝 Todo-mate
 
-Keep track of tasks with custom project folders and notes.
+Todo-mate helps you keep track of tasks with custom project folders and notes in a clean, minimal interface.
 
-- Save to-do items to one of the default folders (Home, Today, Week) or create a custom folder.
-- View to-do details, make an edit, delete and check off items.
-- Three priority levels to assign a to-do item.
-- Number of remaining unchecked items displayed by project name, total unchecked items displayed by Home title.
-- Pinterest style notes section. Dynamically add, remove or edit notes.
-- Fully responsive.
-- Data saved to local storage.
 
-Feature ideas to implement.
+---
 
-- Sort by date / priority.
-- Create logins and allow shared projects / notes between users.
+## What Todo-mate Does
 
-[Live App](https://bscottnz.github.io/todo/)
+Keep track of everything from quick reminders to project-level tasks:
 
-![alt text](https://raw.githubusercontent.com/bscottnz/todo/master/todo.png "App Preview")
+- Save to-do items into default folders (**Home**, **Today**, **Week**) or create your own custom project folders.
+- View full to-do details, edit them, delete them, or mark them as completed.
+- Assign one of **three priority levels** to each task.
+- See how many tasks are left:
+  - Remaining unchecked items are shown next to each project name.
+  - Total unchecked items are displayed in the **Home** title.
+- Take quick notes in a **Pinterest-style notes section** – dynamically add, remove, or edit notes.
+- Fully responsive layout that works across desktop and mobile.
+- All data is saved to **localStorage**, so your tasks persist across refreshes.
+
+---
+
+## 🧠 Future Ideas
+
+Planned / nice-to-have features:
+
+- Sort tasks by **date** or **priority**.
+- Add user **logins** and allow **shared projects/notes** between users.
+- Optional dark mode toggle.
+- Search/filter bar to quickly find tasks.
