@@ -29,3 +29,7 @@ Planned / nice-to-have features:
 - Add user **logins** and allow **shared projects/notes** between users.
 - Optional dark mode toggle.
 - Search/filter bar to quickly find tasks.
+
+## 🔗 Live App
+
+[Todo-mate on Vercel](https://todomate-nu.vercel.app/)
